@@ -71,6 +71,36 @@ nav a:hover {
   color: #00bcd4;
 }
 
+/* CV Section */
+#cv {
+  text-align: center;
+  margin-top: 40px;
+}
+
+#cv h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+#cv p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+#cv .btn {
+  background: #00bcd4;
+  padding: 12px 25px;
+  text-decoration: none;
+  color: white;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+#cv .btn:hover {
+  background: #0097a7;
+}
+
+
 /* Sections */
 .container {
   max-width: 960px;
